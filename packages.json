@@ -1,13 +1,4 @@
 {
-  "plug": {
-    "url": "https://github.com/imjp94/gd-plug.git"
-  },
-  
-  "pkg": {
-    "dependencies": ["plug"], 
-    "url": "https://github.com/yankscally/gd-pkg.git"
-  },
-  
   "netfox": {
     "url": "https://github.com/foxssake/netfox.git",
     "dependencies": [
