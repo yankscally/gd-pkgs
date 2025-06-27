@@ -16,13 +16,12 @@
   
   
   "netfox" : {
+    "url" : "https://github.com/foxssake/netfox"
     "dependencies" : [
       "netfox.internals",
       "netfox.extras",
       "netfox.noray",
     ],
-  }
-    "url" : "https://github.com/foxssake/netfox"
   },
   
   "netfox.internals" : {},
