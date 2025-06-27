@@ -1,15 +1,15 @@
 {
   "plug": {
-    "url": "https://github.com/imjp94/gd-plug"
+    "url": "https://github.com/imjp94/gd-plug.git"
   },
   
   "pkg": {
     "dependencies": ["plug"], 
-    "url": "https://github.com/yankscally/gd-pkg"
+    "url": "https://github.com/yankscally/gd-pkg.git"
   },
   
   "netfox": {
-    "url": "https://github.com/foxssake/netfox",
+    "url": "https://github.com/foxssake/netfox.git",
     "dependencies": [
       "netfox.internals",
       "netfox.extras",
@@ -29,11 +29,11 @@
   
   "color-preview": {
     "editor": true,
-    "url": "https://github.com/Qubus0/GodotColorPreview"
+    "url": "https://github.com/Qubus0/GodotColorPreview.git"
   },
   
   "calendar": {
-    "url": "https://github.com/peterhoglund/Calendar-Library"
+    "url": "https://github.com/peterhoglund/Calendar-Library.git"
   },  
   
 }
