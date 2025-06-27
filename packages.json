@@ -1,6 +1,6 @@
 {
   "netfox": {
-    "url": "https://github.com/foxssake/netfox.git",
+    "url": "foxssake/netfox",
     "dependencies": [
       "netfox.internals",
       "netfox.extras",
