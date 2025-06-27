@@ -30,5 +30,10 @@
   "color-preview": {
     "editor": true,
     "url": "https://github.com/Qubus0/GodotColorPreview"
-  }
+  },
+  
+  "calendar": {
+    "url": "https://github.com/peterhoglund/Calendar-Library"
+  },  
+  
 }
