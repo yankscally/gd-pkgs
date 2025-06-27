@@ -1,37 +1,34 @@
 {
-  
-  "plug" : {
-    "url" : "https://github.com/imjp94/gd-plug"
+  "plug": {
+    "url": "https://github.com/imjp94/gd-plug"
   },
   
-  "pkg" : {
-    "dependencies" : ["gd-plug"], 
-    "url" : "https://github.com/yankscally/gd-pkg"
+  "pkg": {
+    "dependencies": ["plug"], 
+    "url": "https://github.com/yankscally/gd-pkg"
   },
   
-  "unzip" : {},
-  "zip" : {},
-
-
-  
-  
-  "netfox" : {
-    "url" : "https://github.com/foxssake/netfox"
-    "dependencies" : [
+  "netfox": {
+    "url": "https://github.com/foxssake/netfox",
+    "dependencies": [
       "netfox.internals",
       "netfox.extras",
-      "netfox.noray",
-    ],
+      "netfox.noray"
+    ]
   },
   
-  "netfox.internals" : {},
-  "netfox.extras" : {},
-  "netfox.noray" : {},
-
-  "color-preview" : {
-    "editor" : true,
-    "url" : "https://github.com/Qubus0/GodotColorPreview"
+  "netfox.internals": {
+    "url": "https://github.com/foxssake/netfox"
   },
-
-  "svg" : {},
+  "netfox.extras": {
+    "url": "https://github.com/foxssake/netfox"
+  },
+  "netfox.noray": {
+    "url": "https://github.com/foxssake/netfox"
+  },
+  
+  "color-preview": {
+    "editor": true,
+    "url": "https://github.com/Qubus0/GodotColorPreview"
+  }
 }
